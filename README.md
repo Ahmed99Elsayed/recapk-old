@@ -1,6 +1,7 @@
-# prefirebase
+# Recapk
 
-A new Flutter application.
+Recapk (Your Recap in Arabic) connects learning for innovation and the best way to make money to fund their innovation.
+By recapping what they’ve learned, and showing it to others to learn from.
 
 ## Getting Started
 
